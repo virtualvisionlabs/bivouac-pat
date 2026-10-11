@@ -1,0 +1,19 @@
+BIVOUAC — MAQUETTE P2 À IMPRIMER
+
+Imprimer UNE copie en PLA, à 100 %, en millimètres.
+Dimensions mesurées arrondies : 120,00 x 29,97 x 16,10 mm.
+Choisir le STL OU le 3MF : ils représentent le même objet.
+Le PDF donne l’orientation et les réglages proposés.
+
+P2 adoucit les arêtes du manche et rentre les deux extrémités de clip.
+La hauteur de la clip reste identique. P1 est conservée séparément.
+La clip est pleine et fixe; les accessoires ne sortent pas.
+Le dos reste simplifié : le relief du côté allume-feu n’est pas ajouté ici.
+Le contrôle numérique d’insertion dans l’étui E1 est réussi.
+La prise en main et l’ajustement réels seront jugés sur la prochaine impression.
+
+Apercu-maquette-P2.png montre le véritable STL livré.
+Controle-geometrique-P2.json : géométrie et essai d’insertion.
+Verification-tranchage-P2.json : essai PrusaSlicer, profil générique.
+MANIFESTE-SHA256.txt : empreintes des fichiers.
+Pas de G-code : l’atelier doit générer celui de son imprimante.

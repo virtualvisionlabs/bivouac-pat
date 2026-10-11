@@ -1,0 +1,58 @@
+{
+  "revision": "P2",
+  "date": "2026-10-11",
+  "purpose": "Maquette ergonomique inerte, un seul bloc",
+  "source_sha256": "78276c1cbbce0d2c5abafcff817683053c08fe72a553bbf7fae97793bb632316",
+  "output_sha256": "fb8fe4e525bce38c4215ad326af37b70f1ef0a52abc5476247600363d6f1ade2",
+  "units": "mm",
+  "extents_mm": [
+    119.99690680997446,
+    29.973152359947562,
+    16.100000381469727
+  ],
+  "bounds_mm": [
+    [
+      0.003093190025538206,
+      0.026847640052437782,
+      0.0
+    ],
+    [
+      120.0,
+      30.0,
+      16.100000381469727
+    ]
+  ],
+  "volume_mm3": 46334.933674447384,
+  "triangles": 7368,
+  "connected_components": 1,
+  "watertight": true,
+  "winding_consistent": true,
+  "degenerate_triangles": 0,
+  "stl_vertex_weld_decimal_places_mm": 4,
+  "handle_edge_radius_nominal_mm": 1.2,
+  "clip_shoulder_radius_nominal_mm": 0.6,
+  "clip_footprint_inset_mm": 1.6,
+  "clip_outside_inset_limiter_mm3": 0.0,
+  "translated_mm": [
+    60,
+    15,
+    7.2
+  ],
+  "compatible_sheath": "E1",
+  "insertion_poses_checked": 455,
+  "max_intersection_mm3": 0.0,
+  "offset_tests_yz_mm": [
+    -0.5,
+    0.5
+  ],
+  "physical_P2_print_tested": false,
+  "physical_E1_fit_tested": false,
+  "scope": [
+    "Arretes du manche arrondies",
+    "Extremites de clip rentrees et arrondies",
+    "Hauteur de clip conservee",
+    "Dos central plat conserve",
+    "Aucun nouveau mecanisme",
+    "Relief du cote allume-feu non ajoute dans cette revision"
+  ]
+}

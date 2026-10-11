@@ -1,0 +1,20 @@
+{
+  "revision": "P2",
+  "slicer": "PrusaSlicer 2.9.2",
+  "success": true,
+  "stl_sha256": "fb8fe4e525bce38c4215ad326af37b70f1ef0a52abc5476247600363d6f1ade2",
+  "layer_height_mm": 0.16,
+  "first_layer_mm": 0.2,
+  "nozzle_mm": 0.4,
+  "perimeters": 4,
+  "solid_top_bottom_layers": 6,
+  "infill": "30% gyroid",
+  "supports_enabled": true,
+  "estimated_filament_g_including_supports": 28.48,
+  "estimated_time": "3h 2m 43s",
+  "generic_profile_not_recipient_machine": true,
+  "physical_print_tested": false,
+  "gcode_included": false,
+  "stl_import_verified": true,
+  "3mf_import_verified": true
+}
