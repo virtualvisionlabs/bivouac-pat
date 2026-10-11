@@ -1,2 +1,4 @@
 # Preserve exact delivery bytes so standalone files match the package manifest.
 maquette-p2/* -text
+
+p3-e2/* -text

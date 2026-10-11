@@ -1,0 +1,32 @@
+[
+  {
+    "object": "P3",
+    "success": true,
+    "slicer": "PrusaSlicer 2.9.2",
+    "STL_and_3MF_import_verified": true,
+    "filament_g": 30.67,
+    "generic_time": "3h 15m 4s",
+    "physical_print_tested": false,
+    "generic_profile": true
+  },
+  {
+    "object": "E2",
+    "success": true,
+    "slicer": "PrusaSlicer 2.9.2",
+    "STL_and_3MF_import_verified": true,
+    "filament_g": 57.19,
+    "generic_time": "5h 6m 47s",
+    "physical_print_tested": false,
+    "generic_profile": true
+  },
+  {
+    "object": "Gabarit",
+    "success": true,
+    "slicer": "PrusaSlicer 2.9.2",
+    "STL_and_3MF_import_verified": true,
+    "filament_g": 6.06,
+    "generic_time": "33m 50s",
+    "physical_print_tested": false,
+    "generic_profile": true
+  }
+]

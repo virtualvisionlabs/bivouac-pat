@@ -1,0 +1,34 @@
+{
+  "revision": "P3",
+  "units": "mm",
+  "extents_mm": [
+    119.99690680997446,
+    29.973152359947562,
+    17.100000381469727
+  ],
+  "watertight": true,
+  "connected_components": 1,
+  "degenerate_triangles": 0,
+  "handle_thickness_mm": 15.4,
+  "clip_inclusive_thickness_mm": 17.1,
+  "edge_radius_nominal_mm": 1.2,
+  "translated_mm": [
+    60,
+    15,
+    7.7
+  ],
+  "thickness_increase_mm": 1.0,
+  "estimation": {
+    "existing_liner_mm": 0.65,
+    "reference_liner_stock_mm": 1.27,
+    "additional_stock_mm": 0.62,
+    "unallocated_allowance_mm": 0.38,
+    "source": "https://knifemaking.com/products/titanium-sheet-0-050-x-2-5-x-10-while-supplies-last",
+    "not_a_validated_lock_design": true
+  },
+  "fixed_lock_access_cue": true,
+  "reverse_firestarter_relief": true,
+  "functional_lock": false,
+  "physical_print_tested": false,
+  "sha256": "656c23735eaa268a0879f0d5ab8d15037c2a824806f1474fc901028ec623c7bb"
+}

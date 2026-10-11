@@ -1,0 +1,19 @@
+BIVOUAC P3 + E2 — À TRANSMETTRE À L’ATELIER
+
+Objet : imprimer une maquette fermée P3 et son étui E2 pour évaluer la prise en main et le passage. Pièces inertes : lame, clip, allume-feu et repère de loquet fixes. Aucun assemblage de mécanisme. Le loquet représenté permet de juger son accès approximatif; il ne verrouille pas une lame.
+
+Dimensions : P3 : 120 × 29,97 × 17,10 mm, clip comprise; manche 15,40 mm. P2 : manche 14,40 mm, total 16,10 mm. Augmentation : 1,00 mm au total, répartie sur les deux faces. Arêtes nominales R 1,2 mm; épaules de clip rentrées et arrondies. Relief de prise allume-feu ajouté au dos.
+
+Base de l’estimation : remplacement envisagé d’une platine de 0,65 mm par un stock de 1,27 mm (+0,62 mm), plus 0,38 mm de réserve d’intégration. La cote 1,27 mm correspond au stock titane 6AL-4V de 0,050 pouce proposé pour platines par Jantz (TI0502). C’est un budget d’encombrement, pas un calcul de ressort ni une validation de verrou. Course, contacts, butée, résistance et retenue fermée restent à concevoir.
+
+Étui E2 : 117 × 48,40 × 25,75 mm; passage 31,20 × 18,30 mm. Jeu nominal 0,60 mm par face autour de l’enveloppe P3; fond/toit principaux 2,20 mm. Talon apparent 8 mm, trou de poussée Ø 10 mm. Pas de rétention : la maquette peut sortir si l’étui est retourné. Utiliser E2 pour ce test P3, pas l’ancien E1.
+
+Fichiers : choisir le STL ou le 3MF pour chaque pièce, en millimètres à 100 %. Le gabarit E2 facultatif est une section de passage de 12 mm, à essayer sur P3 avant l’étui complet. Il ne valide pas les frottements sur toute la longueur.
+
+Impression proposée : PLA, buse 0,4 mm. P3 : dos au plateau, clip en haut, couches 0,16 mm, 4 périmètres, 6 couches pleines haut/bas, gyroid 30 %. E2 et gabarit : orientation fournie, ouverture vers le haut, couches 0,20 mm, 4 périmètres, 5 couches pleines, gyroid 25 %, bordure 8 mm (gabarit 4 mm). Adapter supports, températures et adhérence au profil réel; garder le canal dégagé. Ébavurer avant essai.
+
+Contrôles numériques : solides fermés uniques, sans triangles dégénérés; import STL/3MF et tranchage réussis. Insertion P3/E2 vérifiée sur les fichiers STL exportés : 455 positions, dont décalages ±0,5 mm, aucune collision. L’ajustement réel dépend de l’impression et reste à vérifier. Aucun G-code fourni.
+
+Estimations avec profil générique : P3 : 30.7 g / 3h 15m 4s; E2 : 57.2 g / 5h 6m 47s; Gabarit : 6.1 g / 33m 50s. L’atelier confirme le prix et la durée.
+
+Référence de stock, dimensions seulement : https://knifemaking.com/products/titanium-sheet-0-050-x-2-5-x-10-while-supplies-last

@@ -1,0 +1,82 @@
+{
+  "revision": "E2",
+  "date": "2026-10-11",
+  "compatible_mockup": "P3",
+  "knife_sha256": "656c23735eaa268a0879f0d5ab8d15037c2a824806f1474fc901028ec623c7bb",
+  "outside_reference_xyz_mm": [
+    117.0,
+    48.399999998509884,
+    25.750000190734863
+  ],
+  "cavity_yz_mm": [
+    31.2,
+    18.3
+  ],
+  "nominal_side_clearance_mm": 0.6,
+  "inserted_length_mm": 112,
+  "handle_exposed_mm": 8,
+  "wall_floor_roof_mm": 2.2,
+  "entry_flare": {
+    "start_x_mm": 50.5,
+    "beyond_mouth_x_mm": 53,
+    "expansion_per_side_at_x53_mm": 0.5
+  },
+  "front_access_bore_diameter_mm": 10,
+  "rigid_clip_relief": true,
+  "functional_retention": false,
+  "nominal_insertion_positions_checked": 251,
+  "offset_positions_checked": 204,
+  "offsets_yz_mm": [
+    -0.5,
+    0.5
+  ],
+  "maximum_intersection_volume_mm3": 0.0,
+  "physical_fit_tested": false,
+  "files": [
+    {
+      "file": "Etui-E2-pour-P3-mm.stl",
+      "sha256": "bf5105aa083501026c5ed5e79f25c7a729d4120265dc0c97fe225d55e9ac172b",
+      "print_xyz_mm": [
+        25.75,
+        48.400001525878906,
+        117.0
+      ],
+      "triangles": 2014,
+      "volume_mm3": 60300.91986159342,
+      "connected_components": 1,
+      "watertight": true,
+      "consistent_winding": true
+    },
+    {
+      "file": "Gabarit-E2-OPTIONNEL-mm.stl",
+      "sha256": "ea7aac26e4f423148c9c2fdad7df27cbdce59560a2d902d0b6852b1902ae7fa3",
+      "print_xyz_mm": [
+        25.75,
+        48.39906692504883,
+        12.0
+      ],
+      "triangles": 816,
+      "volume_mm3": 6266.881519926977,
+      "connected_components": 1,
+      "watertight": true,
+      "consistent_winding": true
+    }
+  ],
+  "printing_orientation": "nose down, mouth up; source X becomes build Z",
+  "adaptations": [
+    "Cavity sized for P3 including solid clip",
+    "No detent, spring, moving rod or abrasive",
+    "Sharpening V silhouettes retained, no sharpening function",
+    "Integral filled case clip; not a flexible pocket clip",
+    "Enlarged entry, open front push access, 8 mm exposed heel"
+  ],
+  "note": "Nominal clearance is a design choice. Validate with optional coupon and actual printed P3.",
+  "actual_exported_stl_poses_checked": 455,
+  "actual_exported_stl_max_overlap_mm3": 0.0,
+  "print_rotation_degrees_y": -90,
+  "print_translation_mm": [
+    15.250000190734863,
+    30.100000001490116,
+    65.0
+  ]
+}
