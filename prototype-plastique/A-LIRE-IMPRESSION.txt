@@ -1,0 +1,17 @@
+BIVOUAC — PROTOTYPE PLASTIQUE P3 + ÉTUI E2
+
+Imprimer UNE copie de chacun des deux STL, en millimètres, à 100 %.
+01 : couteau fermé complet, deux faces réunies en un seul objet.
+02 : étui entier et creux, adapté au couteau 01.
+
+Couteau : environ 120 × 30 × 17,1 mm, clip comprise; manche 15,4 mm.
+Étui : 117 × 48,4 × 25,75 mm; jeu nominal de passage 0,6 mm par face.
+Les coins sont arrondis. Le relief de prise allume-feu est présent au dos.
+Accessoires, clips et repère de loquet FIXES : essai de prise en main uniquement.
+L’étui n’a pas de rétention fonctionnelle; il ne retient pas la maquette retournée.
+
+PLA proposé. Garder l’orientation fournie : couteau dos au plateau;
+étui vertical, ouverture vers le haut. L’atelier adapte supports et adhérence
+à sa machine, garde le canal dégagé et ébavure avant essai. Ne pas redimensionner.
+Passage vérifié numériquement; ajustement physique à vérifier après impression.
+Ces deux STL ont déjà passé le tranchage dans PrusaSlicer 2.9.2.
