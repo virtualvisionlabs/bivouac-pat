@@ -1,0 +1,39 @@
+BIVOUAC — VIDEO COMPLETE
+
+8 clips de 10 secondes, a generer separement et a assembler dans cet ordre.
+Reglage : Omni Flash 1.2, Video, References/Ingredients, 16:9.
+Page publique : https://virtualvisionlabs.github.io/bivouac-pat/video-flow/
+
+01 — Ouvrir la lame et montrer son profil
+Images : 01-bivouac-ferme.png, 02-bivouac-ouvert.png
+Prompt : plan-01.txt
+
+02 — Montrer le loquet et refermer la lame
+Images : 02-bivouac-ouvert.png, 09-detail-loquet.png, 01-bivouac-ferme.png
+Prompt : plan-02.txt
+
+03 — Sortir et ranger la fourchette indépendante
+Images : 01-bivouac-ferme.png, 04-fourchette-retiree.png
+Prompt : plan-03.txt
+
+04 — Retirer l’allume-feu et montrer le grattage
+Images : 03-bivouac-autre-face.png, 05-allume-feu-retire.png, 02-bivouac-ouvert.png
+Prompt : plan-04.txt
+
+05 — Ranger le couteau dans l’étui et le retirer
+Images : 01-bivouac-ferme.png, 06-couteau-dans-etui.png
+Prompt : plan-05.txt
+
+06 — Montrer les deux aiguiseurs en V
+Images : 07-etui-aiguiseurs.png, 02-bivouac-ouvert.png
+Prompt : plan-06.txt
+
+07 — Déplier la tige conique et montrer le crochet
+Images : 07-etui-aiguiseurs.png, 08-tige-conique-deployee.png, 02-bivouac-ouvert.png
+Prompt : plan-07.txt
+
+08 — Montrer les deux clips de poche
+Images : 01-bivouac-ferme.png, 06-couteau-dans-etui.png, 07-etui-aiguiseurs.png
+Prompt : plan-08.txt
+
+Les images montrent le concept 32. Une video generee ne valide pas le fonctionnement reel.
