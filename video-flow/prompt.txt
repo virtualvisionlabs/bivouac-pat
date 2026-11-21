@@ -1,0 +1,13 @@
+Créer une vidéo de présentation de produit photoréaliste de 10 secondes, en format horizontal 16:9.
+
+Les trois images jointes montrent le MÊME couteau de poche BIVOUAC : fermé, ouvert, et ouvert sur son autre face. Ce sont des références du produit, pas des images à afficher dans la vidéo. Conserver fidèlement sa silhouette, son manche vert forêt aux bords arrondis, ses petits accents orange, sa clip de poche métallique, son pivot rond et le profil précis de sa lame. Le manche mesure environ 12 cm : garder une échelle réaliste dans les mains. Transformer le rendu 3D de référence en matériaux photographiques crédibles sans redessiner le produit. La lame est en acier satiné; le crochet rentrant sur son dos garde exactement sa forme et sa position.
+
+Un homme adulte d'environ 40 ans, naturel et sympathique, vêtu d'une chemise de plein air sobre, présente ce couteau dans un petit atelier chaleureux. Personnage original, sans ressemblance recherchée avec une célébrité. Cadrage du torse et des deux mains, visage secondaire légèrement flou, couteau au premier plan entièrement visible. Lumière douce latérale, couleurs naturelles, finition publicitaire soignée, caméra stable. Un seul plan continu.
+
+0 à 2 secondes : il tient le couteau FERMÉ devant la caméra, sans masquer sa silhouette avec sa main.
+2 à 7 secondes : il stabilise le manche avec une main. Avec le pouce et l'index de l'autre, il saisit la prise à ongle accessible sur le dos de la lame et l'ouvre lentement. La lame reste rigide et pivote autour du seul axe rond à l'avant du manche, dans le plan du manche, jusqu'à l'ouverture complète à 180 degrés. Le geste et la charnière restent visibles.
+7 à 10 secondes : il présente le couteau entièrement ouvert, puis l'incline très légèrement pour révéler l'acier satiné et le profil de la lame. Il garde les doigts hors du tranchant. Le couteau reste ouvert à la fin.
+
+Son discret et réaliste : ambiance d'atelier calme, léger froissement des vêtements et petit clic mécanique à la fin de l'ouverture. Aucun dialogue, aucune musique, aucun texte ajouté à l'écran.
+
+Continuité essentielle : un seul couteau, une seule lame, deux mains anatomiquement cohérentes. Aucune modification de forme ou de taille pendant l'action. Pas d'ouverture automatique, pas de bouton inventé, pas de lame qui coulisse ou traverse le manche. La clip reste fixe; la fourchette et l'allume-feu restent rangés. Aucun outil supplémentaire, aucune démonstration de coupe, aucun mouvement brusque. Priorité à la fidélité du couteau et à la lisibilité du geste.
