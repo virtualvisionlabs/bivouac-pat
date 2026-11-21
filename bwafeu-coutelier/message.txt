@@ -1,0 +1,18 @@
+Objet : BWAFEU — demande d’étude et de prototype d’assemblage non coupant
+
+Bonjour,
+
+Je développe un couteau pliant de plein air appelé BWAFEU. J’ai déjà une maquette plastique et des modèles numériques de concept. Je cherche un coutelier qui pourrait m’accompagner pour passer à un prototype d’assemblage non coupant.
+
+Le projet comprend une fourchette amovible, un allume-feu intégré et un étui avec des aiguiseurs. La priorité est de vérifier le manche, le pivot, la visserie et le verrouillage sans rendre le couteau trop épais. Les accessoires et l’étui peuvent d’abord servir de gabarits d’encombrement.
+
+Je souhaite d’abord un devis pour l’examen et l’adaptation de la conception, puis pour un prototype avec un gabarit de lame non affûté, à pointe et arêtes sécurisées. Il doit permettre de vérifier les alignements, les jeux et les mouvements avant de fabriquer la lame définitive.
+
+Le dossier contient des fichiers FreeCAD, des STEP, une référence 3D et une note sur les points qui restent à définir. Ce ne sont pas des plans d’exécution validés; le pivot réel, les filetages, les butées et le verrouillage restent notamment à finaliser.
+
+Voici le dossier :
+https://virtualvisionlabs.github.io/bivouac-pat/bwafeu-coutelier/
+
+Est-ce un projet que vous pourriez prendre en charge, seul ou avec un concepteur mécanique? Pourriez-vous m’indiquer le coût de l’étude initiale, les étapes proposées, les informations manquantes et une estimation du délai? Je peux apporter la maquette plastique pour la comparer aux fichiers.
+
+Merci!

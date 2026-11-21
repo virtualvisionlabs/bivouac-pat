@@ -1,0 +1,29 @@
+<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>BWAFEU — Dossier pour le coutelier</title><style>*{box-sizing:border-box}body{margin:0;background:#142a24;color:#f2f6f0;font:17px/1.55 system-ui,sans-serif}main{max-width:780px;margin:auto;padding:30px 20px}h1{font-size:32px;letter-spacing:.13em;margin:0}h2{font-size:23px;margin-top:30px}p,li{color:#d3dfd5}a{color:#ffc18d}.button,button{display:block;width:100%;border:0;border-radius:13px;background:#efa05e;color:#162c22;font:700 17px system-ui;padding:18px;margin:15px 0;text-align:center;text-decoration:none;cursor:pointer}.secondary{background:#345343;color:white}.card{border:1px solid #466654;border-radius:15px;padding:18px;margin:18px 0;background:#1e392e}textarea{width:100%;height:280px;resize:vertical;background:#10271c;color:white;border:1px solid #59705d;border-radius:10px;padding:12px;font:15px/1.6 system-ui}small{display:block;color:#b6cbbd}.status{min-height:1.5em}footer{margin:30px 0;border-top:1px solid #4c6655;padding-top:18px;font-size:14px}li{margin:10px 0}</style></head><body><main>
+<h1>BWAFEU</h1><p>Dossier de premier contact avec un coutelier · C01</p>
+<div class="card"><strong>Objectif : un prototype d’assemblage non coupant.</strong><p>On demande d’abord une étude et un devis, puis un prototype avec un gabarit de lame non affûté. Cette pièce sert à tester le pivot et les mouvements; un manche vide ne suffit pas.</p><small>BWAFEU est le nouveau nom de BIVOUAC. Les anciens noms et gravures restent visibles dans certaines références. Le changement de nom n’ajoute aucune validation mécanique.</small></div>
+<a class="button" href="BWAFEU-Dossier-coutelier-C01.zip" download>Télécharger le dossier complet pour le coutelier</a><a class="button secondary" href="BWAFEU-Demande-prototype.pdf">Lire la demande — PDF de 3 pages</a>
+<small>Le ZIP contient la demande, le message, les fichiers FreeCAD et STEP, les références 3D et les contrôles. Le coutelier peut le télécharger directement; tu n’as pas besoin de décompresser quoi que ce soit sur ton téléphone.</small>
+<h2>Quoi dire au téléphone</h2><div class="card"><p>Bonjour, j’ai un projet de couteau pliant appelé BWAFEU et une maquette plastique. Je cherche quelqu’un pour vérifier et adapter la conception, puis fabriquer un prototype d’assemblage non coupant avant la vraie lame. J’ai des fichiers FreeCAD et STEP à vous envoyer. Est-ce que vous prenez ce genre de projet, ou travaillez-vous avec quelqu’un qui pourrait m’accompagner?</p></div>
+<h2>Message prêt à envoyer</h2><button data-copy="message">Copier le courriel complet</button><small class="status" role="status"></small><textarea id="message" readonly aria-label="Message au coutelier">Objet : BWAFEU — demande d’étude et de prototype d’assemblage non coupant
+
+Bonjour,
+
+Je développe un couteau pliant de plein air appelé BWAFEU. J’ai déjà une maquette plastique et des modèles numériques de concept. Je cherche un coutelier qui pourrait m’accompagner pour passer à un prototype d’assemblage non coupant.
+
+Le projet comprend une fourchette amovible, un allume-feu intégré et un étui avec des aiguiseurs. La priorité est de vérifier le manche, le pivot, la visserie et le verrouillage sans rendre le couteau trop épais. Les accessoires et l’étui peuvent d’abord servir de gabarits d’encombrement.
+
+Je souhaite d’abord un devis pour l’examen et l’adaptation de la conception, puis pour un prototype avec un gabarit de lame non affûté, à pointe et arêtes sécurisées. Il doit permettre de vérifier les alignements, les jeux et les mouvements avant de fabriquer la lame définitive.
+
+Le dossier contient des fichiers FreeCAD, des STEP, une référence 3D et une note sur les points qui restent à définir. Ce ne sont pas des plans d’exécution validés; le pivot réel, les filetages, les butées et le verrouillage restent notamment à finaliser.
+
+Voici le dossier :
+https://virtualvisionlabs.github.io/bivouac-pat/bwafeu-coutelier/
+
+Est-ce un projet que vous pourriez prendre en charge, seul ou avec un concepteur mécanique? Pourriez-vous m’indiquer le coût de l’étude initiale, les étapes proposées, les informations manquantes et une estimation du délai? Je peux apporter la maquette plastique pour la comparer aux fichiers.
+
+Merci!
+</textarea><p><a href="message.txt">Ouvrir le message en texte simple</a></p>
+<h2>Comment vous y prendre</h2><ol><li>Envoie le message et <strong>le lien de cette page</strong>. Aucun compte n’est nécessaire.</li><li>Demande un devis pour <strong>la revue de conception</strong>, puis un devis pour le prototype adapté. Ne lance pas l’usinage directement sur les cotes de travail.</li><li>Apporte la maquette plastique et l’étui au rendez-vous, ainsi que les pièces déjà achetées s’il y en a.</li></ol>
+<h2>Pour voir le concept</h2><a class="button secondary" href="../complet-32.html">Ouvrir la présentation 3D de référence</a><small>La présentation porte encore le nom BIVOUAC et montre le modèle 32. Les corrections internes A01 figurent dans le dossier CAO.</small>
+<footer>Le dossier contient une étude de concept, pas des plans d’exécution certifiés. Le pivot réel, les filetages, les appuis, les butées, le verrouillage, les matériaux et les essais restent à définir avec l’atelier. Aucun message n’a été envoyé à un coutelier automatiquement.</footer>
+</main><script>document.querySelector('[data-copy]').onclick=async function(){const input=document.getElementById('message'),status=this.nextElementSibling;try{await navigator.clipboard.writeText(input.value);status.textContent='Copié ! Tu peux le coller dans ton courriel.'}catch{input.focus();input.select();input.setSelectionRange(0,input.value.length);status.textContent='Texte sélectionné : choisis Copier.'}};</script></body></html>
